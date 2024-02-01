@@ -1,9 +1,9 @@
 # To use:
 install : customtkinter , CTkListbox .
 
-_pip install customtkinter 
+_pip install customtkinter_
 
-pip install CTkListbox_
+_pip install CTkListbox_
 
 Used customtkinter instead of tkinter, Thanks to "**TomSchimansky**".
 CustomTkinter: A modern and customizable python UI-library based on Tkinter.
