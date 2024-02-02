@@ -14,3 +14,9 @@ The ToDo List has the features :
 + Add
 + Delete
 + DeleteAll
+
+Iteration 2:
+The added features:
++ Move Up
++ Move Down
++ Modify
