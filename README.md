@@ -1,2 +1,2 @@
 # CodSoft
-My Tasks of CodSoft Internship( Vamsi Devarapalli )
+My Tasks of CodSoft Python Internship( Vamsi Devarapalli )
